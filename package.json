@@ -20,6 +20,7 @@
   "homepage": "https://github.com/reflexow9/www#readme",
   "dependencies": {
     "jsonfile": "^6.2.1",
-    "moment": "^2.31.0"
+    "moment": "^2.31.0",
+    "simple-git": "^3.36.0"
   }
 }
